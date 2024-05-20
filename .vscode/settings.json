@@ -1,0 +1,9 @@
+{
+  "xml.downloadExternalResources.enabled": true,
+  "xml.fileAssociations": [
+    {
+      "pattern": "**/source/**.ptx",
+      "systemId": "C:\\Users\\ajp201\\.ptx\\schema\\pretext.rng"
+    }
+  ]
+}
